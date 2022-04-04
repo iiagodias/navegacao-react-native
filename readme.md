@@ -4,4 +4,4 @@
 
 # TIPOS
 
-![](./tiposgit.png)
+![](./tipos.png)
